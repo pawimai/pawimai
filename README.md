@@ -2,9 +2,9 @@
 
 # Hi, I'm Pawichaya 👋
 
-**Aspiring Developer**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=1100&color=58A6FF&center=true&vCenter=true&width=520&height=52&lines=Aspiring+Developer;Always+Learning+and+Building)](https://github.com/DenverCoder1/readme-typing-svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-pawimai-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pawimai)
+[![GitHub](https://img.shields.io/badge/GitHub-pawimai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pawimai)
 
 </div>
 
