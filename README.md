@@ -16,30 +16,60 @@
 - 🌱 Expected graduation: 2027
 - 💼 Software Developer Intern at Netbay
 
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,php,py&theme=dark" alt="TypeScript, JavaScript, PHP, Python" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind&theme=dark" alt="Next.js, React, HTML, CSS, Tailwind CSS" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs&theme=dark" alt="Laravel, Node.js" />
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,github&theme=dark" alt="PostgreSQL, MySQL, Docker, GitHub" />
 
 </div>
+
+---
 
 ### 📌 Projects
 
 **JorJod — Personal Finance Management Application**  
 University team project featuring savings goals, monthly expense analysis, and daily login streaks.  
 *Role: Team Leader | Next.js*
+
+---
+
+### 🚀 Areas of Interest
+
+- 💻 Full Stack Web Development
+- 🎨 Frontend Development
+- 🏗️ Software Architecture
+- 🧪 Software Testing
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawimai/pawimai/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pawimai/pawimai/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/pawimai/pawimai/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
 
 ### 📫 Contact
 
