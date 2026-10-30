@@ -59,17 +59,6 @@ University team project featuring savings goals, monthly expense analysis, and d
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawimai/pawimai/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pawimai/pawimai/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/pawimai/pawimai/output/github-snake.svg" />
-  </picture>
-</div>
-
----
 
 ### 📫 Contact
 
